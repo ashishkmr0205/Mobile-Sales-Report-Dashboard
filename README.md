@@ -28,7 +28,7 @@ Dashboard Interaction <a href="https://github.com/ashishkmr0205/Data-Analysis-Da
 3.	Visualization & Dashboard Creation
 -	Designed interactive charts, graphs, and tables to highlight sales insights.
 -	Implemented slicers for filtering by brand, city, and payment method.
--	Used a heatmap, bar charts, and line graphs for a clear representation of trends.
+-	Used a bubble-map, bar charts, and line graphs for a clear representation of trends.
 
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/5ca6b5cc-020a-420b-929a-14ef865f2930)
