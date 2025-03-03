@@ -14,7 +14,8 @@ To ensure a comprehensive analysis, the dashboard answers the following key busi
 -	Regional Performance – Which cities contribute the most to total sales?
 -	Customer Feedback – What is the distribution of customer ratings?
 
-Dashboard Interaction <a herf="https://github.com/ashishkmr0205/Data-Analysis-Dashboard/blob/main/mobile_sale_report.pbix">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/ashishkmr0205/Data-Analysis-Dashboard/blob/main/mobile_sale_report.pbix">View Dashboard</a>
+
 ## 🔄 Process
 1.	Data Extraction & Transformation
 -	Imported sales data from multiple sources into Power BI.
